@@ -1,0 +1,24 @@
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.exe
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.deps.json
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.runtimeconfig.json
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.runtimeconfig.dev.json
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.dll
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\ref\Лаба 2.dll
+D:\2 Курс\КГИГ\Лаба 2\bin\Debug\net5.0-windows\Лаба 2.pdb
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.csproj.AssemblyReference.cache
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\App.g.cs
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2_MarkupCompile.cache
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2_MarkupCompile.lref
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\MainWindow.baml
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.g.resources
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.AssemblyInfoInputs.cache
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.AssemblyInfo.cs
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.csproj.CoreCompileInputs.cache
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.dll
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\ref\Лаба 2.dll
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.pdb
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\Лаба 2.genruntimeconfig.cache
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\XY.g.cs
+D:\2 Курс\КГИГ\Лаба 2\obj\Debug\net5.0-windows\XY.baml

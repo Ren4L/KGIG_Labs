@@ -1,0 +1,33 @@
+﻿<Window x:Class="Лаба_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лаба_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Right" Background="White">
+            <MenuItem Header="Инструменты">
+                <MenuItem Header="Открыть" Click="MenuItem_Click_1"/>
+                <MenuItem Header="Вырезать" Click="MenuItem_Click"/>
+                <MenuItem Header="Сохранить" Click="MenuItem_Click_2"/>
+            </MenuItem>
+        </Menu>
+        <Canvas x:Name="Can1" Grid.Row="1" Grid.Column="0" MouseDown="Can1_MouseLeftButtonDown" MouseUp="Can1_MouseLeftButtonUp" MouseMove="Can1_MouseMove" Background="White">
+            <Rectangle x:Name="Rect1" Fill="LightBlue" Opacity="0.6" Panel.ZIndex="1"/>
+            <Image Source="" x:Name="img1" Width="auto" Height="auto"/>
+        </Canvas>
+        <Canvas x:Name="Can2" Grid.Row="1" Grid.Column="1" Background="Wheat">
+            <Image Source="" x:Name="img2" Width="auto" Height="auto"/>
+        </Canvas>
+    </Grid>
+</Window>

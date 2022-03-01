@@ -1,0 +1,22 @@
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.exe
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.deps.json
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.runtimeconfig.json
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.runtimeconfig.dev.json
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.dll
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\ref\Лаба 3.dll
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\bin\Debug\net5.0-windows\Лаба 3.pdb
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.csproj.AssemblyReference.cache
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\App.g.cs
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3_MarkupCompile.cache
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3_MarkupCompile.lref
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\MainWindow.baml
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.g.resources
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.AssemblyInfoInputs.cache
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.AssemblyInfo.cs
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.csproj.CoreCompileInputs.cache
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.dll
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\ref\Лаба 3.dll
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.pdb
+D:\2 Курс\КГИГ\Лаба 3\Лаба 3\obj\Debug\net5.0-windows\Лаба 3.genruntimeconfig.cache
