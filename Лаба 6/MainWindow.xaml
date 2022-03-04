@@ -17,10 +17,10 @@
         <Menu Grid.Row="0">
             <MenuItem Header="Functions">
                 <MenuItem Header="Func1" Name="Func1" Click="Func1_Click"/>
-                <MenuItem Header="Func2" Name="FUnc2"/>
-                <MenuItem Header="Func3" Name="Func3"/>
+                <MenuItem Header="Func2" Name="FUnc2" Click="FUnc2_Click"/>
+                <MenuItem Header="Func3" Name="Func3" Click="Func3_Click"/>
             </MenuItem>
         </Menu>
-        <Canvas Grid.Row="1" x:Name="Can" Width="700" Height="700" Background="LightGray"/>
+        <Canvas Grid.Row="1" x:Name="Can" Width="700" Height="700" Background="LightGray" MouseLeftButtonDown="Can_MouseLeftButtonDown" MouseLeftButtonUp="Can_MouseLeftButtonUp" MouseMove="Can_MouseMove"/>
     </Grid>
 </Window>

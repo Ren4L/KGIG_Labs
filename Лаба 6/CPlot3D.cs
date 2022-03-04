@@ -43,9 +43,9 @@ namespace Лаба_6
         {
             try
             {
-                List<CMatrix> VecMatrix = new List<CMatrix>();
                 for (double x = -5; x < 5; x += dx)
                 {
+                    List<CMatrix> VecMatrix = new List<CMatrix>();
                     VecMatrix.Clear();
                     for (double y = -5; y < 5; y += dy)
                     {
@@ -70,13 +70,13 @@ namespace Лаба_6
             try
             {
                 CMatrix CVC = CMatrix.getConverterWorldToView(this.View);
-                List<CMatrix> VecMatrix = new List<CMatrix>();
                 double xmin = MAX;
                 double xmax = MIN;
                 double ymin = MAX;
                 double ymax = MIN;
                 for (int i = 0; i < MathWorld.Count; i++)
                 {
+                    List<CMatrix> VecMatrix = new List<CMatrix>();
                     VecMatrix.Clear();
                     for (int j = 0; j < MathWorld[i].Count; j++)
                     {
@@ -110,9 +110,9 @@ namespace Лаба_6
             try
             {
                 CMatrix TS = CMatrix.SpaceToWindow(WRect, SRect);
-                List<Point> VecPoint = new List<Point>();
                 for (int i = 0; i < MathScreen.Count; i++)
                 {
+                    List<Point> VecPoint = new List<Point>();
                     VecPoint.Clear();
                     for (int j = 0; j < MathScreen[i].Count; j++)
                     {
