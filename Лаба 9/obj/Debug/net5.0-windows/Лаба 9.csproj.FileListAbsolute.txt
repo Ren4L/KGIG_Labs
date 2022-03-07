@@ -1,0 +1,22 @@
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.exe
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.deps.json
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.runtimeconfig.json
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.runtimeconfig.dev.json
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.dll
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\ref\Лаба 9.dll
+D:\2 Курс\КГИГ\Лаба 9\bin\Debug\net5.0-windows\Лаба 9.pdb
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.csproj.AssemblyReference.cache
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\App.g.cs
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9_MarkupCompile.cache
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9_MarkupCompile.lref
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\MainWindow.baml
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.g.resources
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.AssemblyInfoInputs.cache
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.AssemblyInfo.cs
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.csproj.CoreCompileInputs.cache
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.dll
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\ref\Лаба 9.dll
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.pdb
+D:\2 Курс\КГИГ\Лаба 9\obj\Debug\net5.0-windows\Лаба 9.genruntimeconfig.cache
